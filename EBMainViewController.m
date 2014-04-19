@@ -25,7 +25,7 @@
 
 - (void)viewDidLoad
 {
-    NSLog(@"Testing");
+    NSLog(@"Testing office");
     
     [super viewDidLoad];
     [UIView animateWithDuration:0.3 delay:0 options:UIViewAnimationOptionCurveEaseIn animations:^{
